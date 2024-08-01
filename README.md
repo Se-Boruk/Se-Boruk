@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋 <br>My name is Sebastian<br><br>I am 23 yo student from Poland interested in ML/DL especially in Computer vision<br>I like everything which is connected with image classsification,segmentation, generation...whatever it is, if it uses neurons I want to know more about it!<br><br><br>Currently focused on learning:<br>-GANs and well, git and github itself
+Hello👋 <br>My name is Sebastian<br><br>I am 23 yo student from Poland interested in ML/DL especially in Computer vision<br>I like everything which is connected with image classsification,segmentation, generation...whatever it is, if it uses neurons I want to know more about it!<br><br><br>Currently focused on learning:<br>-Git, Github, deep learning image classification problems
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,3 @@ Hello👋 <br>My name is Sebastian<br><br>I am 23 yo student from Poland interes
 ---
 [![](https://visitcount.itsvg.in/api?id=Ciapser&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
