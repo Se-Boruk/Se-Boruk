@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋 <br>My name is Sebastian<br><br>I am 23 yo student from Poland interested in ML/DL especially in Computer vision<br>I like everything which is connected with image classsification,segmentation, generation...whatever it is, if it uses neurons I want to know more about it!<br><br><br>Currently focused on learning:<br>-Git, Github, deep learning image classification problems
+Hello👋 <br>My name is Sebastian<br><br>I am 24 yo student from Poland interested in DL/ML especially in Computer vision<br>I like everything which is connected with image classsification,segmentation, generation...whatever it is, if it uses neurons I want to know more about it!<br><br><br>Currently focused on learning:<br>-Git, Github, deep learning image classification problems
 
 
 # 💻 Tech Stack:
